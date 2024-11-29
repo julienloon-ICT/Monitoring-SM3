@@ -22,7 +22,7 @@ This script is a Python-based utility for sending notifications via Discord webh
 ---
 
 ## Sources
-- [Github Gist](https://gist.githubusercontent.com/n00rm/32f1334b1dd2efc40122fee36551ef17/raw/4feee30fa2b183bef6fc619e897f541ec23befa8/discord.py)
+- [Github Gist](https://gist.github.com/n00rm/32f1334b1dd2efc40122fee36551ef17)
 - [CheckMK](https://forum.checkmk.com/t/check-mk-discord-notification/29311/)
   
 ---
